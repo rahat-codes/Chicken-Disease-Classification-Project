@@ -1,5 +1,19 @@
 # Chicken Disease Classification
 
+<div align="center">
+
+<p><strong>IMAGE CLASSIFICATION RESEARCH PROJECT</strong></p>
+
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge" alt="Python" />
+<img src="https://img.shields.io/badge/Deep_Learning-0F172A?style=for-the-badge" alt="Deep Learning" />
+<img src="https://img.shields.io/badge/Computer_Vision-0F172A?style=for-the-badge" alt="Computer Vision" />
+
+<a href="https://github.com/rahat-codes/Chicken-Disease-Classification-Project"><img src="https://img.shields.io/github/stars/rahat-codes/Chicken-Disease-Classification-Project?style=social" alt="GitHub stars" /></a>
+
+</div>
+
+---
+
 A deep-learning project repository for an image-classification workflow. The repository is organized around a configurable training pipeline, with configuration files, reusable components, and workflow stages.
 
 ## Project Overview
